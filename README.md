@@ -14,8 +14,7 @@ Micro:bit board is designed by BBC which aims to help children at or above 7 gra
 * Bluetooth wireless programming uploading
 
 * Bluetooth Wireless communication
-# Download Method
-![](http://m.qpic.cn/psb?/V12aIGgQ3D78BF/btvghifdcEClEhbAGL.LsXG7GnelfQh.n3CnRmpVWzc!/b/dL8AAAAAAAAA&bo=4wO2AQAAAAADB3U!&rf=viewer_4)
+
 # Please Contact Us
 If you have any problem when using our robot after checking the tutorial, please contact us.
 ## Facebook:
